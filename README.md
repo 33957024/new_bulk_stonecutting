@@ -1,6 +1,6 @@
 # Bulk Stonecutting — Fabric 1.21.11 移植版
 
-原模组 `bulk_stonecutting-master` 从 **Minecraft 1.21.4 → 1.21.11** 的移植版本。
+原模组 `bulk_stonecutting-master` 从 **Minecraft 1.21.4 → 1.21.11** 的移植版本。使用deepseek v4生成文件，原作者仓库：https://github.com/the-ryan-12/bulk_stonecutting
 
 ## 功能
 
